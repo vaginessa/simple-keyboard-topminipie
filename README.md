@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 
-<img src="icons/icon.png"
+<img src="images/icon.png"
       width="200"/>
 
 ## About
